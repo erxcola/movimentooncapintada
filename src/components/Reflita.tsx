@@ -63,7 +63,7 @@ export const Reflita: React.FC = () => {
     >
       <h2
         id="reflita-anchor"
-        className="refilta-anchor font-display uppercase text-center max-w-5xl origin-center text-[clamp(2.5rem,10vw,8rem)] leading-[0.9]"
+        className="refilta-anchor font-display uppercase text-center max-w-5xl origin-center text-[clamp(2.3rem,8.5vw,6.5rem)] leading-[1.12]"
       >
         {REFLITA.anchor}
       </h2>

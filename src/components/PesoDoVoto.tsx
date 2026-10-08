@@ -107,7 +107,7 @@ export const PesoDoVoto: React.FC = () => {
       <div className="max-w-3xl mx-auto">
         <h2
           id="peso-title"
-          className="font-display text-[clamp(2.5rem,6vw,5rem)] uppercase leading-[0.95] mb-10"
+          className="font-display text-[clamp(2.3rem,5.5vw,4.5rem)] uppercase leading-[1.12] mb-10"
         >
           {PESO.title}
         </h2>

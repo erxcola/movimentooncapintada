@@ -76,7 +76,7 @@ const MapaAbstencao: React.FC = () => {
       <div className="max-w-5xl mx-auto">
         <h2
           id="mapa-abstencao-title"
-          className="mapa-title font-display text-[clamp(2rem,7vw,5rem)] leading-[0.92] uppercase mb-4"
+          className="mapa-title font-display text-[clamp(2rem,6vw,4.5rem)] leading-[1.12] uppercase mb-4"
         >
           MAPA DA ABSTENÇÃO
         </h2>

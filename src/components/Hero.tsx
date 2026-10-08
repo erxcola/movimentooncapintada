@@ -45,7 +45,7 @@ export const Hero: React.FC = () => {
           </div>
           <h1
             id="hero-title"
-            className="font-display uppercase text-[clamp(2.2rem,7.5vw,5.2rem)] leading-[0.92] tracking-[-0.02em]"
+            className="font-display uppercase text-[clamp(2.1rem,6.2vw,4.6rem)] leading-[1.14] tracking-[-0.01em]"
           >
             {words.map((word, index) => (
               <span key={`${word}-${index}`} className="hero-line inline-block mr-[0.22em]">

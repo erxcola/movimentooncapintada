@@ -88,7 +88,7 @@ export const ChamadaFinal: React.FC = () => {
       <div className="max-w-5xl mx-auto px-6 sm:px-8">
         <h2
           id="chamada-title"
-          className="font-display uppercase leading-[0.92] flex flex-col gap-2 sm:gap-4"
+          className="font-display uppercase leading-[1.12] flex flex-col gap-2 sm:gap-4"
         >
           {CHAMADA.lines.map((line) => (
             <span key={line} className="chamada-line block text-[clamp(2rem,7vw,6rem)]">

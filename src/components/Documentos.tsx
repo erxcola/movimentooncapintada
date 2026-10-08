@@ -47,7 +47,7 @@ export const Documentos: React.FC = () => {
         <div className="flex items-start justify-between gap-4">
           <h2
             id="documentos-title"
-            className="doc-title font-display text-[clamp(1.8rem,6vw,3.5rem)] leading-[0.95] uppercase mb-3"
+            className="doc-title font-display text-[clamp(1.8rem,6vw,3.5rem)] leading-[1.12] uppercase mb-3"
           >
             DOCUMENTOS
           </h2>
